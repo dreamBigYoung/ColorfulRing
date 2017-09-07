@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.bigyoung.colorfulring.MainActivity">
+    <com.example.bigyoung.colorfulring.view.ColorfulRing
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        app:radius="100dp"
+        app:major_color="#25a708"
+        app:secondary_color="#35C4EABC"
+        app:current_value="600"
+        app:max_value="900"
+        app:text_size="20sp"
+        >
+    </com.example.bigyoung.colorfulring.view.ColorfulRing>
+
+</android.support.constraint.ConstraintLayout>
