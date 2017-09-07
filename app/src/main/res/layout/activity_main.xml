@@ -9,7 +9,7 @@
     <com.example.bigyoung.colorfulring.view.ColorfulRing
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        app:radius="100dp"
+        app:radius="130dp"
         app:major_color="#25a708"
         app:secondary_color="#35C4EABC"
         app:current_value="600"
