@@ -30,7 +30,7 @@ public class ColorfulRing extends View {
     private int mCurrentValue;//当前值
     private int mMaxValue;//最大值
     public Paint mPaint;
-    public int mArcWidth;
+    public int mArcWidth;//环宽
     public int mHeight;
     public int mWidth;
     public int WIDTH_BLANK;//横向空白
